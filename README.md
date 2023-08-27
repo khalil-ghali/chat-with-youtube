@@ -18,11 +18,11 @@ Before you begin, ensure you have the following installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/khalil-ghali/chat-with-Youtube.git
+   git clone https://github.com/khalil-ghali/chat-with-youtube.git
 
 2. Navigate into the project directory:
     ```bash
-    cd chat-with-Youtube
+    cd chat-with-youtube
     ```
 3. Install the necessary dependencies: 
     ```bash
