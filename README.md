@@ -38,3 +38,4 @@ Before you begin, ensure you have the following installed:
   2. Enter your API key(only required in open AI version).
   3. Ask questions.
   4. Get detailed, AI-generated answers.
+## Please Note that if you have a CUDA compatible graphic card, your app will run on GPU for faster processing, if you don't have it that's fine It will run on you CPU but a little slower.  
