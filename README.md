@@ -1,7 +1,8 @@
 # Chat-with-Youtube
 
 
-![Website chat Assistant Chatbot](app-screenshot.png)
+![Open Source Version](app-screenshot.png)
+![Open AI Version](app-screenshot2.png)
 
 Chat-with-Youtube is a tool designed to facilitate question and answer interactions based on information extracted from Youtube Videos. This chatbot enables you to ask questions about the content of any video and receive relevant answers quickly and efficiently by means of Large Language Models and Generative AI.
 
