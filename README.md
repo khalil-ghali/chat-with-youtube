@@ -4,7 +4,7 @@
 ![Open Source Version](app-screenshot.png)
 ![Open AI Version](app-screenshot2.png)
 
-![Generative AI](https://img.shields.io/badge/Generative%20AI-Text%20Generation)
+
 
 Chat-with-Youtube is a tool designed to facilitate question and answer interactions based on information extracted from Youtube Videos. This chatbot enables you to ask questions about the content of any video and receive relevant answers quickly and efficiently by means of Large Language Models and Generative AI.
 
