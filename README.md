@@ -2,7 +2,7 @@
 
 
 ![Open Source Version](app-screenshot.png)
-![Open AI Version](app-screenshot2.png)
+
 
 
 
